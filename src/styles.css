@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#pegaCep{
+    width: 350px;
+    border-radius: 5px;
+    padding: 7px;
+    background-color: rgb(208, 218, 231);
+    margin-bottom: 10px;
+}
+.button{
+    font-size: 22px;
+    background-color: rgb(36, 134, 151);
+    color: white;
+    border-radius: 5px;
+    padding: 7px;
+    width: 150px;
+}
+.resultado{
+    width: 100%;
+    max-width: 350px;
+    background-color: rgb(226, 221, 226);
+    padding: 10px;
+    margin-top: 15px;
+    height: 250px;
+}
